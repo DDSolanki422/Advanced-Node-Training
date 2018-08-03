@@ -1,0 +1,7 @@
+tool to test the clustering
+
+- Apache bench marking tool
+
+command to fire n number of requests
+
+ab -c200 -t10 http://localhost:3010/
